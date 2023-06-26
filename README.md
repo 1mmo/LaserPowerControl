@@ -1,5 +1,4 @@
 # LaserPowerControl
-Diode laser power and temperature stabilization
 
 ![image](https://github.com/1mmo/LaserPowerControl/assets/79962819/5bf8bc49-70b2-4b4f-836a-44d68f7f65dd)
 
