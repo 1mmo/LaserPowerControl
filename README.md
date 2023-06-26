@@ -3,6 +3,7 @@
 ![image](https://github.com/1mmo/LaserPowerControl/assets/79962819/5bf8bc49-70b2-4b4f-836a-44d68f7f65dd)
 
 
+
 # Introduction 📝
 Technological progress gives people incredible abilities. What seemed impossible for people of past centuries is now commonplace for every person. Lasers are one of those everyday things. Complex engineering and technical systems that require the creation and maintenance of appropriate means of control and management are now subject to every person. 
 
@@ -10,6 +11,9 @@ Laser radiation technologies are actively developing and, due to a wide range of
 
 
 # Problems of uncontrolled laser radiation ⚠️
+
+![lasers-dog (1)](https://github.com/1mmo/LaserPowerControl/assets/79962819/32fea90c-41d0-44cf-afd4-d9ac43b56e31)
+
 The laser stores energy and emits it in the form of a light beam. If the emitted energy leaves the laser, and its use becomes a separate task, then the remaining part of the energy inside the laser poses the problem for engineers to get rid of this energy by dissipating into the environment. With low-power lasers, everything is simple:
 it is enough to keep them in a relatively cool room. When using more powerful lasers, the support of special heat removal or cooling systems is required.
 Compactness is a positive feature of a semiconductor laser, but at the same time its problem. Because of the small size, the laser heats up quickly and the intensity degrades over time.
